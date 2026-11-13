@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/punitjangra31/myleetcode/tree/master/0016-3sum-closest) |
 | [1480-running-sum-of-1d-array](https://github.com/punitjangra31/myleetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/punitjangra31/myleetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/punitjangra31/myleetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/punitjangra31/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/punitjangra31/myleetcode/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/punitjangra31/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/punitjangra31/myleetcode/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/punitjangra31/myleetcode/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/punitjangra31/myleetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
