@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/punitjangra31/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/punitjangra31/myleetcode/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/punitjangra31/myleetcode/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/punitjangra31/myleetcode/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/punitjangra31/myleetcode/tree/master/1603-design-parking-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/punitjangra31/myleetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/punitjangra31/myleetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
