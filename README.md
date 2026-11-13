@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/punitjangra31/myleetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/punitjangra31/myleetcode/tree/master/0088-merge-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/punitjangra31/myleetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/punitjangra31/myleetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/punitjangra31/myleetcode/tree/master/1512-number-of-good-pairs) |
@@ -18,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/punitjangra31/myleetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/punitjangra31/myleetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/punitjangra31/myleetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/punitjangra31/myleetcode/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
