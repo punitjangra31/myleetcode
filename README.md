@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/punitjangra31/myleetcode/tree/master/0016-3sum-closest) |
+| [1480-running-sum-of-1d-array](https://github.com/punitjangra31/myleetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/punitjangra31/myleetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/punitjangra31/myleetcode/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/punitjangra31/myleetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
