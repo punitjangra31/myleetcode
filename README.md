@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/punitjangra31/myleetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/punitjangra31/myleetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/punitjangra31/myleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/punitjangra31/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punitjangra31/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1470-shuffle-the-array](https://github.com/punitjangra31/myleetcode/tree/master/1470-shuffle-the-array) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/punitjangra31/myleetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/punitjangra31/myleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/punitjangra31/myleetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/punitjangra31/myleetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/punitjangra31/myleetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/punitjangra31/myleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/punitjangra31/myleetcode/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
@@ -88,4 +91,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/punitjangra31/myleetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/punitjangra31/myleetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/punitjangra31/myleetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
